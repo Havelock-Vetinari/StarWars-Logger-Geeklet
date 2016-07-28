@@ -2,7 +2,9 @@
 
 Do you like to keep an eye on thing that happen under the hood of your system?
 
-GeekTool allows to view log file on your Macs desktop. This script ads some style to log viewing by utilizing newly added Web Geeklet (it requires GeekTool 3.3+)
+GeekTool allows to view log file on your Macs desktop. This script ads some style to log viewing by utilizing newly added Web Geeklet (it requires [GeekTool](http://www.tynsoe.org/v2/geektool/) 3.3+)
+
+![image](http://havelock-vetinari.github.io/assets/pics/geeklets_screen.png)
 
 ##Installation
 
