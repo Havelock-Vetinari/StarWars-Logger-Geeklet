@@ -1,0 +1,30 @@
+@font-face {
+ font-family: InconsolataXL;
+ src: url("%assets/Inconsolata XL.otf") format("opentype");
+}
+
+html {
+ font-family: InconsolataXL;
+ font-size: %font_size;
+ border: 0px;
+ margin: 0px;
+ padding: 0px;
+ color: %font_color;
+}
+
+pre {
+ white-space: pre-wrap;
+ border: 0px;
+ margin: 0px;
+ padding: 0px;
+ position: absolute;
+ display:block;
+ overflow:auto;
+ bottom: 0px;
+ left: 0px;
+ right: 0px;
+ margin 0px;
+ text-align: left;
+ transform-origin: 50% 100%;
+ transform: perspective(500px) rotateX(%x_deg);
+}
