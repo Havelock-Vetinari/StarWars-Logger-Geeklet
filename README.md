@@ -23,12 +23,12 @@ By default last 100 lines of **/var/log/system.log** are displayed. Use option -
 
 You can change the way logs are displayed by using any of following options:
 
-* -s to set font size, ie. 10px or any valid CSS font-size argument.
+* -s to set font size, ie. "10px" or any valid CSS font-size argument.
 * -c to set font color, ie. "rgb(196,250,199)" or "red" or any valid CSS color argument
-* -x to set perspective, ie. 20deg or any other valid CSS rotateX transformation argument
+* -x to set perspective, ie. "20deg" or any other valid CSS rotateX transformation argument
 
 ##Thanks
 
-This Geeklet uses great [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) font designed by [Raph Levien](http://levien.com). Copy of this font is located in **assets** directory of this repository.
+This Geeklet uses great [Inconsolata](https://www.google.com/fonts/specimen/Inconsolata) font designed by [Raph Levien](http://levien.com). Copy of this font is located in **assets** directory.
 
 
